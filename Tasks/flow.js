@@ -9,13 +9,13 @@
  */
 
 let subscriptions = [{
-        link: "https://sjgddfegvs.dingyueapi.cc/api/v1/client/subscribe?token=24da531305bca034efc34ed1f72abc94",
-        name: "云洞",
+        link: "",
+        name: "",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/pudding.png"
     },
     {
-        link: "https://miaona.me/api/v1/client/subscribe?token=513c93df6830f595351c3f0dde522217",
-        name: "miaona",
+        link: "",
+        name: "",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/Nexitally.png"
     },
 ];
