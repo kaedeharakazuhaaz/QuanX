@@ -14,8 +14,8 @@ let subscriptions = [{
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/pudding.png"
     },
     {
-        link: "订阅地址2",
-        name: "取个名字2",
+        link: "https://miaona.me/api/v1/client/subscribe?token=513c93df6830f595351c3f0dde522217",
+        name: "miaona",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/Nexitally.png"
     },
 ];
