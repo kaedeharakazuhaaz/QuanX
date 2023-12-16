@@ -9,8 +9,8 @@
  */
 
 let subscriptions = [{
-        link: "订阅地址1",
-        name: "取个名字1",
+        link: "https://sjgddfegvs.dingyueapi.cc/api/v1/client/subscribe?token=24da531305bca034efc34ed1f72abc94",
+        name: "云洞",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/pudding.png"
     },
     {
